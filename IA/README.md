@@ -11,3 +11,6 @@
 | [Fundamentos-Da-Inteligencia-Artificial-Livro-Completo.pdf](./Fundamentos-Da-Inteligencia-Artificial-Livro-Completo.pdf) | 2026-09-22 |
 | [Guia-Ia-500-Exame.pdf](./Guia-Ia-500-Exame.pdf) | 2026-09-22 |
 | [Inteligencia-Artificial-e-Aprendizado-de-Maquina-Was-Rahman.pdf](./Inteligencia-Artificial-e-Aprendizado-de-Maquina-Was-Rahman.pdf) | 2026-09-22 |
+| [1000 Ferramentas de IA para Maxima Produtividade.pdf](./1000%20Ferramentas%20de%20IA%20para%20Maxima%20Produtividade.pdf) | 2026-09-22 |
+| [Fine-tuning Data Generation Prompt.pdf](./Fine-tuning%20Data%20Generation%20Prompt.pdf) | 2026-09-22 |
+| [Mastering Reactive Prompting for AI Agents.pdf](./Mastering%20Reactive%20Prompting%20for%20AI%20Agents.pdf) | 2026-09-22 |
