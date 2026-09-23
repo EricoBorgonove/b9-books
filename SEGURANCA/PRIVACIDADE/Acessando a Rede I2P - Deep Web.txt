@@ -1,0 +1,41 @@
+ACESSANDO A I2P (deep web) 
+
+
+Se você não tiver o Java instalado no seu computador, entre baixe e instale ele: http://java.com/en/download/index.jsp ;
+Acesse o site oficial na página de downloads para baixar o cliente I2P: http://www.i2p2.de/download, para baixar no Linux Ubuntu;
+
+$ sudo apt-add-repository ppa:i2p-maintainers/i2p
+$ sudo apt-get update
+$ sudo apt-get install i2p 
+E para iniciar:
+$ i2prouter start
+Instale-o(s) - Não se esqueça de marcar a opção de criar shortcuts (atalhos) na área de trabalho para ter melhor acesso;
+Depois de tudo instalado, vá na sua área de trabalho/desktop ou no lugar onde você instalou/extraiu a I2P, e execute o "Start I2P (restartable)", e logo em seguida verá uma tela do prompt de comando, juntamente com a execução do Java, se conectando à rede. Minimize a tela.;
+Então, provavelmente abriu no seu navegador essa página, se não abriu só clicar no link: localhost:7657/home;
+Agora vá nas configurações de bandwidth (http://localhost:7657/config) e aumente os 96 e 40 para uma velocidade maior (ex.: metade da velocidade da sua internet em KB/s), se precisar verifique aqui sua velocidade de conexão com a internet, isto é para aumentar o fluxo de dados in/out;
+Agora você precisa configurar o proxy do seu navegador, então vamos lá!:
+Mozilla Firefox: Vá na aba: Ferramentas > opções > avançado > rede > configurar conexão > e marque a opção "configuração manual do proxy", e digite nas caixas de texto agora abertas: HTTP: http://127.0.0.1 e em Portas: 4444, (se precisar, porta 4445 para SSL) agora aperte "OK" logo abaixo e depois OK de novo.
+Google Chrome: Ao lado da barra de endereços (URL) nas três barras > Configurações > lá embaixo em Mostrar Configurações Avançadas > Alterar configurações de Proxy > Conexões > Configurações/Propriedades LAN > Marque a opção na caixa abaixo de Servidor Proxy e digite em Endereço: http://127.0.0.1 e em Porta digite 4444 
+Seja feliz, agora é só acessar sites existentes com sufixo ".i2p" no final.
+OBS.: Para voltar a acessar normal a internet é só voltar no processo e desmarcar as configurações do Proxy.
+
+Agora vão ai vão alguns sites de interesse da I2P para você entrar:
+
+http://127.0.0.1:7657/home - Sua pagina inicial da I2P;
+http://eepsites.com/ - Motor de busca da surface de sites da I2P, também chamados de EEPSites
+
+http://www.i2p2.i2p/ - Site oficial na I2P;
+http://pastethis.i2p - Site semelhante ao Pastebin, posta arquivos estilos TXT que o usuário cria e fica lá registrado como um log;
+http://zzz.i2p - Discussões de desenvolvimento I2P;
+http://planet.i2p/ - "News" I2P, blog/feed das atualizações e posts da galera da I2P;
+http://forum.i2p/ - Fórum geral da I2P;
+http://echelon.i2p/ - Site com vários arquivos, links e informações úteis;
+http://tracker2.postman.i2p/ - Fórum com centenas de arquivos (aqui fica a dica pros hackers);
+http://diftracker.i2p/ - outro grande fórum para download de arquivos;
+http://id3nt.i2p/ - Blog de discussões gerais;
+http://killyourtv.i2p/ - tutoriais, informações;
+
+- É normal ser lento e as vezes não carregar, certifique de que todas as conexões estão OK
+- Na sua home principal da I2P, na parte inferior da pagina estão todos os links que você vai precisar pra se virar. Quem entende de redes e de java e de criptografia, consegue se virar bem.
+- I2P está em versão Beta;
+- Vendo se as conexões estão todas Ok: http://localhost:7657/i2ptunnel/index.jsp
