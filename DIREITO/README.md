@@ -23,7 +23,15 @@
 ## Subcategorias
 
 - [Direito Ambiental](./DIREITO-AMBIENTAL/)
+- [Dicionarios](./DICIONARIOS/)
 - [Direito Civil](./DIREITO-CIVIL/)
+- [Direito Constitucional](./DIREITO-CONSTITUCIONAL/)
+- [Direito Empresarial](./DIREITO-EMPRESARIAL/)
 - [Direito Penal](./DIREITO-PENAL/)
+- [Direito Previdenciario](./DIREITO-PREVIDENCIARIO/)
 - [Direitos Humanos](./DIREITOS-HUMANOS/)
+- [Pratica Juridica](./PRATICA-JURIDICA/)
+- [Processo Civil](./PROCESSO-CIVIL/)
 - [Processo Penal](./PROCESSO-PENAL/)
+- [Direito do Trabalho](./DIREITO-TRABALHO/)
+- [Direito Tributario](./DIREITO-TRIBUTARIO/)

@@ -11,6 +11,7 @@
 - [C](./C/)
 - [Carreira](./CARREIRA/)
 - [Compliance](./COMPLIANCE/)
+- [Concursos](./CONCURSOS/)
 - [Criptomoedas](./CRIPTOMOEDAS/)
 - [Culinaria](./CULINARIA/)
 - [Data Science](./DATA-SCIENCE/)
