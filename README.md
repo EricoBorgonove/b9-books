@@ -4,8 +4,10 @@
 
 ## Categorias
 
+- [Administracao Publica](./ADMINISTRACAO-PUBLICA/)
 - [Desenvolvimento Web](./DESENVOLVIMENTO-WEB/)
 - [Dev](./DEV/)
+- [Compliance](./COMPLIANCE/)
 - [Git e GitHub](./GIT-GITHUB/)
 - [Inteligência Artificial](./IA/)
 - [Arquitetura de Software](./ARQUITETURA-DE-SOFTWARE/)
