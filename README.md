@@ -59,15 +59,13 @@
 
 ## Quantidade de arquivos
 
-- **Total:** 541 materiais
+- **Total:** 535 materiais
 - **PDF:** 401
 - **DOCX:** 66
 - **DOC:** 20
 - **PPTX:** 26
 - **PPT:** 3
 - **MP4:** 15
-- **ZIP:** 3
-- **ISO:** 3
 - **TXT:** 3
 - **CBZ:** 1
 
