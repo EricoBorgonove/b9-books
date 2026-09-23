@@ -1,4 +1,4 @@
-# Magistratura
+# MAGISTRATURA
 
 | Arquivo | Adicionado em |
 |---|---:|

@@ -1,10 +1,11 @@
-# Git e GitHub
+# GIT-GITHUB
 
-| Livro | Adicionado em |
+| Arquivo | Adicionado em |
 |---|---:|
 | [Aprendendo-Git-Anna-Skoulikari-Z-Library.pdf](./Aprendendo-Git-Anna-Skoulikari-Z-Library.pdf) | 2026-09-22 |
-| [Controlando-Versoes-Com-Git-e-GitHub-Casa-Do-Codigo.pdf](./Controlando-Versoes-Com-Git-e-GitHub-Casa-Do-Codigo.pdf) | 2026-09-22 |
+| [Controlando Versoes com Git e GitHub - Casa do Codigo (2).pdf](./Controlando%20Versoes%20com%20Git%20e%20GitHub%20-%20Casa%20do%20Codigo%20%282%29.pdf) | 2026-09-23 |
 | [Controlando Versoes com Git e GitHub - Casa do Codigo.pdf](./Controlando%20Versoes%20com%20Git%20e%20GitHub%20-%20Casa%20do%20Codigo.pdf) | 2026-09-22 |
+| [Controlando-Versoes-Com-Git-e-GitHub-Casa-Do-Codigo.pdf](./Controlando-Versoes-Com-Git-e-GitHub-Casa-Do-Codigo.pdf) | 2026-09-22 |
 | [Git - Sistema de Controle de Versao.pdf](./Git%20-%20Sistema%20de%20Controle%20de%20Versao.pdf) | 2026-09-22 |
 | [Git e GitHub - Controle de Versao.pdf](./Git%20e%20GitHub%20-%20Controle%20de%20Versao.pdf) | 2026-09-22 |
 | [Git e GitHub Tutorial - Jorge Ramirez.pdf](./Git%20e%20GitHub%20Tutorial%20-%20Jorge%20Ramirez.pdf) | 2026-09-22 |

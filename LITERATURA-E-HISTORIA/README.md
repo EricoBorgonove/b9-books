@@ -1,5 +1,6 @@
-# Historias e Literatura
+# LITERATURA-E-HISTORIA
 
-Materiais organizados por subcategoria:
+## Subcategorias
 
-- [Historia](./HISTORIA/)
+- [HISTORIA](./HISTORIA/)
+

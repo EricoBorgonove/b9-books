@@ -1,4 +1,4 @@
-# Teologia
+# TEOLOGIA
 
 | Arquivo | Adicionado em |
 |---|---:|

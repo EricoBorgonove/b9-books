@@ -1,4 +1,4 @@
-# Dicionarios Juridicos
+# DICIONARIOS
 
 | Arquivo | Adicionado em |
 |---|---:|

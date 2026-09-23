@@ -1,6 +1,7 @@
-# Documentos
+# DOCUMENTOS
 
-Materiais organizados por subcategoria:
+## Subcategorias
 
-- [Assistencia Tecnica](./ASSISTENCIA-TECNICA/)
-- [Contratos](./CONTRATOS/)
+- [ASSISTENCIA-TECNICA](./ASSISTENCIA-TECNICA/)
+- [CONTRATOS](./CONTRATOS/)
+

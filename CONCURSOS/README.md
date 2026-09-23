@@ -1,12 +1,12 @@
-# Concursos
+# CONCURSOS
 
-Materiais organizados por subcategoria:
+## Subcategorias
 
-- [Carreiras Policiais](./CARREIRAS-POLICIAIS/)
-- [Juridicos](./JURIDICOS/)
-- [Magistratura](./MAGISTRATURA/)
+- [CARREIRAS-POLICIAIS](./CARREIRAS-POLICIAIS/)
+- [JURIDICOS](./JURIDICOS/)
+- [MAGISTRATURA](./MAGISTRATURA/)
 - [OAB](./OAB/)
-- [Materiais Gerais](./)
+- [RACIOCINIO-LOGICO](./RACIOCINIO-LOGICO/)
 
 | Arquivo | Adicionado em |
 |---|---:|

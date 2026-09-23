@@ -1,7 +1,8 @@
-# Administracao
+# ADMINISTRACAO
 
-Materiais organizados por subcategoria:
+## Subcategorias
 
-- [Administracao de Materiais](./ADMINISTRACAO-DE-MATERIAIS/)
-- [Gestao de Pessoas](./GESTAO-DE-PESSOAS/)
-- [Organizacoes](./ORGANIZACOES/)
+- [ADMINISTRACAO-DE-MATERIAIS](./ADMINISTRACAO-DE-MATERIAIS/)
+- [GESTAO-DE-PESSOAS](./GESTAO-DE-PESSOAS/)
+- [ORGANIZACOES](./ORGANIZACOES/)
+

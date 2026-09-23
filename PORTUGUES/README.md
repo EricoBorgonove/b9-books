@@ -1,6 +1,9 @@
-# Portugues
+# PORTUGUES
 
-Materiais organizados por subcategoria:
+## Subcategorias
 
-- [Gramatica](./GRAMATICA/)
-- [Questoes](./QUESTOES/)
+- [GRAMATICA](./GRAMATICA/)
+- [PORTUGUES-JURIDICO](./PORTUGUES-JURIDICO/)
+- [QUESTOES](./QUESTOES/)
+- [REDACAO-JURIDICA](./REDACAO-JURIDICA/)
+

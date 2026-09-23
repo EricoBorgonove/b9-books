@@ -1,4 +1,4 @@
-# Educacao
+# EDUCACAO
 
 | Arquivo | Adicionado em |
 |---|---:|
